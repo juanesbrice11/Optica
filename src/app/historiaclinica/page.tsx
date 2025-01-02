@@ -1,5 +1,5 @@
 import React from 'react'
-import HistoriaClinica from '@/components/HistoriaClinica'
+import HistoriaClinica from '@/components/CrearHistoriaClinica'
 import Footer from '@/components/Footer'
 
 export default function page() {
